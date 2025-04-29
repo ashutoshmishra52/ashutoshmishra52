@@ -23,7 +23,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashutoshmishra52&theme=radical)
 
 # 🚀 GitHub Metrics:
-![](https://metrics.lecoq.io/ashutoshmishra52?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FCalcutta)
+![]([![Ashutosh's GitHub Metrics](https://github-readme-stats.vercel.app/api?username=ashutoshmishra52&show_icons=true&theme=radical)](https://github.com/ashutoshmishra52)
+)
 
 # 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=ashutoshmishra52&theme=radical&no-frame=false&no-bg=true&margin-w=4)
