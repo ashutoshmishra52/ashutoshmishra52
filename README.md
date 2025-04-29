@@ -16,10 +16,16 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ashutoshmishra52&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ashutoshmishra52&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshmishra52&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ashutoshmishra52&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshmishra52&theme=dark&hide_border=false&layout=compact&langs_count=10&count_private=true)
 
-## 🏆 GitHub Trophies:
+# ✨ GitHub Profile Summary:
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashutoshmishra52&theme=radical)
+
+# 🚀 GitHub Metrics:
+![](https://metrics.lecoq.io/ashutoshmishra52?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FCalcutta)
+
+# 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=ashutoshmishra52&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
@@ -30,4 +36,4 @@
 - [OttoX - Startup Website](https://www.ottox.in/)
 - [Aetheris - AI Chatbot](https://www.codewithashutoshmishra.com/)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with ❤️ by Ashutosh -->
