@@ -20,7 +20,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshmishra52&theme=dark&hide_border=false&layout=compact&langs_count=10&count_private=true)
 
 # ✨ GitHub Profile Summary:
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashutoshmishra52&theme=radical)
+![](https://metrics.lecoq.io/ashutoshmishra52?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FCalcutta)
+
 
 # 🚀 GitHub Metrics:
 ![]([![Ashutosh's GitHub Metrics](https://github-readme-stats.vercel.app/api?username=ashutoshmishra52&show_icons=true&theme=radical)](https://github.com/ashutoshmishra52)
