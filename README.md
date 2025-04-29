@@ -1,6 +1,6 @@
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashutoshmishra.52)
-[![Telegram](https://img.shields.io/badge/Telegram-%2300A9E0.svg?logo=Telegram&logoColor=white)](https://web.telegram.org/k/#@ccodewithashutosh)
+[![Telegram](https://img.shields.io/badge/Telegram-%2300A9E0.svg?logo=Telegram&logoColor=white)](https://web.telegram.org/k/#@ccodewithashutoshmishra)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ashutosh-mishra-dev/)
 
 # 💻 Tech Stack:
