@@ -13,7 +13,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-# 📈 GitHub Streak Stats:
+# 📈 GitHub Streak:
 [![Ashutosh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashutoshmishra52&theme=radical)](https://github.com/ashutoshmishra52)
 
 # 📊 GitHub Stats:
