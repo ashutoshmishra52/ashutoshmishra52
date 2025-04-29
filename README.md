@@ -16,7 +16,7 @@
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ashutoshmishra52&theme=dark&hide_border=false&include_all_commits=true&count_private=true&show_icons=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ashutoshmishra52&theme=dark&hide_border=false)<br/>
+[![Ashutosh's GitHub Metrics](https://github-readme-stats.vercel.app/api?username=ashutoshmishra52&show_icons=true&theme=radical)](https://github.com/ashutoshmishra52)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshmishra52&theme=dark&hide_border=false&layout=compact&langs_count=10&count_private=true)
 
 # ✨ GitHub Profile Summary:
