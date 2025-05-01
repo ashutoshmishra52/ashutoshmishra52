@@ -18,22 +18,24 @@
 [![Ashutosh's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ashutoshmishra52&theme=radical)](https://github.com/ashutoshmishra52)
 
 # 📊 GitHub Stats:
-[![Ashutosh's GitHub Metrics](https://github-readme-stats.vercel.app/api?username=ashutoshmishra52&show_icons=true&theme=radical&hide=issues&count_private=true)](https://github.com/ashutoshmishra52)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshmishra52&theme=dark&hide_border=false&layout=compact&langs_count=10&count_private=true)
+[![Ashutosh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashutoshmishra52&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/ashutoshmishra52)
+
+[![Ashutosh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshmishra52&theme=radical&layout=donut&langs_count=20&count_private=true)](https://github.com/ashutoshmishra52)
 
 # ✨ GitHub Profile Summary:
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashutoshmishra52&theme=radical)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashutoshmishra52&theme=radical)
 
 # 🏆 GitHub Trophies:
-![](https://github-profile-trophy.vercel.app/?username=ashutoshmishra52&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy.vercel.app/?username=ashutoshmishra52&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
 ## 📌 Projects:
-- [Ashutosh Portfolio Website](https://ashutoshkrmishra.vercel.app/)
-- [Codiny - Main Project](https://codiny.codewithrandom.com/)
-- [OttoX - Startup Website](https://www.ottox.in/)
-- [Aetheris - AI Chatbot](https://www.codewithashutoshmishra.com/)
+- 🔗 [Ashutosh Portfolio Website](https://ashutoshkrmishra.vercel.app/)
+- 🔗 [Codiny - Main Project](https://codiny.codewithrandom.com/)
+- 🔗 [OttoX - Startup Website](https://www.ottox.in/)
+- 🔗 [Aetheris - AI Chatbot](https://www.codewithashutoshmishra.com/)
+
+---
 
 <!-- Proudly created with ❤️ by Ashutosh -->
- 
