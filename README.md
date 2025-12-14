@@ -1,3 +1,10 @@
+## 👋 Hi, I'm Ashutosh Mishra
+
+🚀 AI Developer | Full-Stack Developer | CTO @ Ottox  
+💡 Building real-world products, startups & scalable platforms  
+
+---
+
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashutoshmishra.52)
 [![Telegram](https://img.shields.io/badge/Telegram-%2300A9E0.svg?logo=Telegram&logoColor=white)](https://t.me/ccodewithashutoshmishra)
@@ -19,14 +26,14 @@
 ---
 
 ## 📈 GitHub Streak
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ashutoshmishra52&theme=radical)](https://github.com/ashutoshmishra52)
+![GitHub Streak](https://streak-stats.demolab.com?user=ashutoshmishra52&theme=radical&hide_border=true)
 
 ---
 
 ## 📊 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashutoshmishra52&show_icons=true&theme=radical&include_all_commits=true&count_private=true)](https://github.com/ashutoshmishra52)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashutoshmishra52&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshmishra52&layout=donut&theme=radical&langs_count=10)](https://github.com/ashutoshmishra52)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashutoshmishra52&layout=donut&theme=radical&langs_count=10)
 
 ---
 
@@ -41,13 +48,27 @@
 ---
 
 ## 📌 Featured Projects
-- 🔗 **Portfolio** → https://ashutoshkrmishra.vercel.app  
-- 🔗 **Codiny (Main Project)** → https://codiny.codewithrandom.com  
-- 🔗 **Ottox (Startup)** → https://www.ottox.in  
-- 🔗 **Aetheris (AI Chatbot)** → https://www.codewithashutoshmishra.com  
+- 🔗 **Portfolio Website**  
+  https://ashutoshkrmishra.vercel.app  
+
+- 🔗 **Codiny – Competitive Coding Platform**  
+  https://codiny.codewithrandom.com  
+
+- 🔗 **Ottox – Startup Website**  
+  https://www.ottox.in  
+
+- 🔗 **Aetheris – AI Chatbot**  
+  https://www.codewithashutoshmishra.com  
 
 ---
 
-> 🚀 *Focused on building real-world products, AI systems, and scalable web platforms.*
+### 🧠 About Me
+- 🔥 Passionate about AI, Web, IoT & Startups  
+- 🧪 Love building real products, not just demos  
+- 📈 Focused on consistency, learning & execution  
 
-<!-- Proudly crafted with ❤️ by Ashutosh -->
+---
+
+> 🚀 *“Build daily. Improve relentlessly.”*
+
+<!-- Proudly crafted with ❤️ by Ashutosh Mishra -->
